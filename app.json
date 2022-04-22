@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "Jewel List",
+    "slug": "Sama-ToDo",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/james.png",
+    "splash": {
+      "image": "./assets/james.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#c0c0c0"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/james.png",
+        "backgroundColor": "#c0c0c0"
+      },
+      "package": "com.jewelsama.SamaToDo"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
